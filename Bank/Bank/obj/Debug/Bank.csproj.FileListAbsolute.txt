@@ -1,0 +1,4 @@
+c:\users\d\downloads\documents\visual studio 2010\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\d\downloads\documents\visual studio 2010\Projects\Bank\Bank\obj\Debug\Bank.pdb
+c:\users\d\downloads\documents\visual studio 2010\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\d\downloads\documents\visual studio 2010\Projects\Bank\Bank\obj\Debug\Bank.exe
